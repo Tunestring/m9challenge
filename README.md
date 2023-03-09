@@ -16,7 +16,7 @@ This project demonstrates skills learned through Module 9 to create a README.md 
 ## Installation
 This project requires some dependencies, node as well as inquirer v8.2.4 to be installed locally on your machine. Below are links to videos demonstrating how to install the packages.
 
-[Node.js Installation Walkthrough Video](https://www.youtube.com/watch?v=qYwLOXjAiwM)  
+[Node.js Installation Walkthrough Video](https://youtu.be/q5uAZbd4r3I)  
 
 Once you have Node.js installed, open a terminal and type the following to install inquirer dependency v8.2.4 (make sure you are in the directory of your index.js).
 ```
